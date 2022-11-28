@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open ALAMI Website</description>
+   <name>openAlamiWebsite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3e3b0cd-706a-4222-8334-52da91ca06ef</testCaseGuid>
+</TestCaseEntity>

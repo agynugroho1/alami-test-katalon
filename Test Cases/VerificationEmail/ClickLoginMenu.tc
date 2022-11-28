@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Login Menu</description>
+   <name>ClickLoginMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2be815a-63be-4f48-928f-656e186b9bc8</testCaseGuid>
+</TestCaseEntity>

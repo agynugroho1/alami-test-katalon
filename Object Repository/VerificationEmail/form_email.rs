@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_email</name>
+   <tag></tag>
+   <elementGuidId>28e53c1b-7dde-4b10-8ad1-4be8b2bc21ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='address']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='address']</value>
+      <webElementGuid>fe152587-f22c-4119-b5ff-9fd3869df033</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

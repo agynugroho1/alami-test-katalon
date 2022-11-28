@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_Individual</name>
+   <tag></tag>
+   <elementGuidId>d877887f-d5a9-4848-acc6-55370c931aad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@for='individuOpt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@for='individuOpt']</value>
+      <webElementGuid>2e423baf-fd02-4c1f-86e3-c29cc99207a2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Register</name>
+   <tag></tag>
+   <elementGuidId>17a07180-f4ab-48d9-9b8a-bd8fd8ccc490</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/register']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/register']</value>
+      <webElementGuid>a6c12b60-8560-4018-9d8b-e657764761af</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

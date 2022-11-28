@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>formBox_AfterRegister</name>
+   <tag></tag>
+   <elementGuidId>4e096d47-340f-4ea7-aa70-75386e7e4e44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='main']//child::*[@class='one']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='main']//child::*[@class='one']</value>
+      <webElementGuid>b3481105-735b-418d-bb3b-22cc6b4397f0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

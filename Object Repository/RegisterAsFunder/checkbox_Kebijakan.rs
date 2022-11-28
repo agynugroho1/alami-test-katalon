@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_Kebijakan</name>
+   <tag></tag>
+   <elementGuidId>c0389e9b-dea5-4938-b2e2-6342c95db5a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='checkboxKebijakan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='checkboxKebijakan']</value>
+      <webElementGuid>34311bb1-b05e-401a-a3cb-4c00ae64d970</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

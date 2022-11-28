@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_password</name>
+   <tag></tag>
+   <elementGuidId>2245f9bb-333d-435d-a1c3-a6deb9599bfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='accounts-list']//child::div//child::div//child::p[3]//child::span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='accounts-list']//child::div//child::div//child::p[3]//child::span</value>
+      <webElementGuid>97190b64-825f-4a5b-ba54-34638316991d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_AsFunder</name>
+   <tag></tag>
+   <elementGuidId>f6fc1c65-30ca-4cf5-ab1a-9cc1b1bafeab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/register/funder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/register/funder']</value>
+      <webElementGuid>548b5eb9-dfb2-4e96-9aa7-c66966b236b4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_FillEmail</name>
+   <tag></tag>
+   <elementGuidId>44242b1b-a1c1-42cc-8cfc-8cff92fca396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='registerEmailFunder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='registerEmailFunder']</value>
+      <webElementGuid>6ca4f584-5376-4457-9f02-6759fd284041</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_dismiss</name>
+   <tag></tag>
+   <elementGuidId>1186773e-d1e9-4cc4-b976-0836c6e01637</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='dismiss-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='dismiss-button']</value>
+      <webElementGuid>c3937342-6c5c-480d-be33-a96076791c04</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

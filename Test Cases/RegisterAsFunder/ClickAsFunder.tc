@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Registration as a Funder</description>
+   <name>ClickAsFunder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd79409b-0eb7-4c6c-bcac-935ab3a6950e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9aa638b1-84bf-4c6b-b49f-7e405be65285</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>9aa638b1-84bf-4c6b-b49f-7e405be65285</id>
+      <masked>false</masked>
+      <name>individualRUn</name>
+   </variable>
+</TestCaseEntity>

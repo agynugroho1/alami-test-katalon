@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_activateMail</name>
+   <tag></tag>
+   <elementGuidId>e73dd0f8-464c-48fb-8ec6-178eaf80c847</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;iFrameResizer0&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;iFrameResizer0&quot;]</value>
+      <webElementGuid>36284d17-80ff-452e-920f-92922797e070</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

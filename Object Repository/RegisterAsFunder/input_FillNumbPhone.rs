@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_FillNumbPhone</name>
+   <tag></tag>
+   <elementGuidId>935776eb-b61d-4f79-9d86-450a239f4876</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='LenderPhone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='LenderPhone']</value>
+      <webElementGuid>b083e037-8116-43b6-b9b1-42cb6c8a8c8e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

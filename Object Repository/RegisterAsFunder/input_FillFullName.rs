@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_FillFullName</name>
+   <tag></tag>
+   <elementGuidId>edfae68a-67d9-4f06-ab07-66b8295b24bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='registerNamaFunder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='registerNamaFunder']</value>
+      <webElementGuid>cbffb698-e4b4-4359-95f3-2263d6812697</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

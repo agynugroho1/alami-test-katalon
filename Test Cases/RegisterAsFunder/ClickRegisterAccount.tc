@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go To Register Account</description>
+   <name>ClickRegisterAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53ea1041-7de6-4072-939f-8ebe1ef61678</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3391ec26-8a0d-4b45-8a91-63a4c74461ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>3391ec26-8a0d-4b45-8a91-63a4c74461ca</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

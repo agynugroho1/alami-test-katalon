@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll_PrivacyPolicy</name>
+   <tag></tag>
+   <elementGuidId>2d04649c-275d-4544-bc84-c83be68bb843</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[@data-target-url='/register/funder/aktivasi']//child::*[@id='scrollWrapper']//child::p)[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[@data-target-url='/register/funder/aktivasi']//child::*[@id='scrollWrapper']//child::p)[22]</value>
+      <webElementGuid>4200c4ec-4718-472a-80fd-d6bbcd745613</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

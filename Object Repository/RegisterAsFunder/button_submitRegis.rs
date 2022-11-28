@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_submitRegis</name>
+   <tag></tag>
+   <elementGuidId>78ea06bd-3f08-4ed0-8e4b-bb71b85e4f34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='submitRegister2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='submitRegister2']</value>
+      <webElementGuid>272f6f83-9a23-4fc7-a2f4-857ed75bc670</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

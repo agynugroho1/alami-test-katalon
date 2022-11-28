@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Account</description>
+   <name>getAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bbcc7bd-a102-4d1e-9658-9292725db7db</testCaseGuid>
+</TestCaseEntity>

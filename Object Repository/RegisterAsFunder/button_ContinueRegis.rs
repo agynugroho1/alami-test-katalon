@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ContinueRegis</name>
+   <tag></tag>
+   <elementGuidId>6fd61e21-f686-40db-b97b-c7c7e8cd9d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='daftarAlami']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='daftarAlami']</value>
+      <webElementGuid>a3d10b3d-48c5-41ec-9822-f6af6d553450</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Activated Email</description>
+   <name>ActivateMail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e01e22bf-6bbc-4828-85f6-ae446062cdfb</testCaseGuid>
+</TestCaseEntity>

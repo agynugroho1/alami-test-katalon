@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_Email</name>
+   <tag></tag>
+   <elementGuidId>b393a93c-ad5f-40bd-a2ba-5f34a8f3dd60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/div/div[2]/ul/li/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/div/div[2]/ul/li/a/div</value>
+      <webElementGuid>add6eb27-eda0-4e36-ad6f-484e3c23e9f6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

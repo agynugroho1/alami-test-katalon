@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click to Login Alami Sharia</description>
+   <name>ClickLoginAlami</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>232ea444-334b-4e6d-85c0-a3c65a7d5f29</testCaseGuid>
+</TestCaseEntity>

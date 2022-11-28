@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_Login</name>
+   <tag></tag>
+   <elementGuidId>a840da7f-718f-4bb6-b772-05fb0795100e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[@class='py-1'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[@class='py-1'])[2]</value>
+      <webElementGuid>0c7a51b5-262d-4ab3-93ae-eed09cd77788</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

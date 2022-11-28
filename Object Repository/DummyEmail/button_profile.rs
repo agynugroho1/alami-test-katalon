@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_profile</name>
+   <tag></tag>
+   <elementGuidId>136afda5-3149-481d-b5aa-c42d906643bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='accounts-menu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='accounts-menu']</value>
+      <webElementGuid>6d2b76c0-9159-4480-8a70-50f7f59b5388</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
